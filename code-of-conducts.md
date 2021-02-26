@@ -1,6 +1,6 @@
 # CODICE DI CONDOTTA
 
-Tutti gli amministratori e membri di qualsiasi community ufficiale di DevOps Italia sono tenuti ad attenersi al seguente codice di condotta. Gli amministratori sono tenuti a far rispettare questo codice nelle varie presenze online di DevOps Italia (http://t.me/cloudnativecommunityita).
+Tutti gli amministratori e membri di qualsiasi community ufficiale di DevOps Italia sono tenuti ad attenersi al seguente codice di condotta. Gli amministratori sono tenuti a far rispettare questo codice nelle varie presenze online di DevOps Italia (https://t.me/devopsitalia).
 
 ## In breve
 
